@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Urban_Harvest_Assisgnment
-=======
 # FreshBasket 🥬
 
 A simple grocery ordering web app built with React.
@@ -83,4 +80,3 @@ src/
 - React 18 via Vite
 - Plain CSS (no UI library)
 - Google Fonts: Fraunces + DM Sans
->>>>>>> master

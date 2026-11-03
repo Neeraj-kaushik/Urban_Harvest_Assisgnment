@@ -1,6 +1,6 @@
 # FreshBasket 🥬
 
-A simple grocery ordering web app built with React.
+A simple grocery ordering web app built with React. Live demo: https://urban-harvest-assisgnment.vercel.app/
 
 ---
 
@@ -10,8 +10,8 @@ A simple grocery ordering web app built with React.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<Your name>/Urban_Harvest_Assisgnment.git
-cd fresh-basket
+git clone https://github.com/Neeraj-kaushik/Urban_Harvest_Assisgnment.git
+cd Urban_Harvest_Assisgnment
 
 # 2. Install dependencies
 npm install
